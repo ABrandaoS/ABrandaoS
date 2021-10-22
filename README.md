@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/84191715/138377431-a464961f-33a1-4148-a73e-43aa648d1083.png)
-
 - 💻 I’m currently working on tester software
 - 🚀 I’m currently learning javascript
 - 📫 How to reach me: 
@@ -12,4 +10,4 @@
 
 ![image](https://user-images.githubusercontent.com/84191715/138378263-b532b9ca-3d5c-45aa-a4c9-fad10e16b99a.png)
 
-
+![image](https://user-images.githubusercontent.com/84191715/138377431-a464961f-33a1-4148-a73e-43aa648d1083.png)
