@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 💻 I’m currently working on tester software
+ 💻 I’m currently working on tester software
 - 🚀 I’m currently learning javascript
 - 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/abrandaos/
